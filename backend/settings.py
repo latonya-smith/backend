@@ -56,7 +56,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'backend.urls'
 
-CORS_ALLOWED_WHITELIST = (
+CORS_ALLOWED_ORIGIN = (
     'http://localhost:3000',
     'http://localhost:4200',
     'https://listenerf-ba120.web.app',
