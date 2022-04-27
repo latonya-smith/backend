@@ -59,8 +59,8 @@ ROOT_URLCONF = 'backend.urls'
 CORS_ALLOWED_ORIGINS = (
     'http://localhost:3000',
     'http://localhost:4200',
-    'https://listenerbackend3.web.app',
-    'https://listenerbackend3.firebaseapp.com',
+    'https://listenerf-ba120.web.app',
+    'https://listenerf-ba120.firebaseapp.com',
 )
 
 TEMPLATES = [
